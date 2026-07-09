@@ -63,9 +63,9 @@ In this repository, I will practice Java concepts step by step by writing progra
 | ✅ | Variables |
 | ✅ | Data Types |
 | ✅ | Operators |
-| ⏳ | User Input |
-| ⏳ | Conditional Statements |
-| ⏳ | Loops |
+| ✅ | User Input |
+| ✅ | Conditional Statements |
+| ✅ | Loops |
 | ⏳ | Methods |
 | ⏳ | Arrays |
 | ⏳ | Strings |
